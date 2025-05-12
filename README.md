@@ -1,15 +1,3 @@
----
-title: 渗透工具
-date: 2025-5-9
-tags:   
-  - project
-categories: Cybersecurity
-top: 100
-reward: true
----
-
-
-
 # 述
 
 工作的时候，要求要找不同地方的同一性质的资产，为了避免麻烦，所以干脆找ai写了一个脚本，感觉蛮好用的，想着以后若是更新或者增加功能点，方便回想功能的构造，所用api为hunter的，在此记录如下
